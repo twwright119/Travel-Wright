@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Travel-Wright/static/css/main.674b88de.css",
+    "main.js": "/Travel-Wright/static/js/main.058e22f0.js",
+    "index.html": "/Travel-Wright/index.html",
+    "main.674b88de.css.map": "/Travel-Wright/static/css/main.674b88de.css.map",
+    "main.058e22f0.js.map": "/Travel-Wright/static/js/main.058e22f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.674b88de.css",
+    "static/js/main.058e22f0.js"
+  ]
+}
